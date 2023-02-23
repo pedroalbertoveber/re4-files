@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { HashRouter, Routes, Route } from 'react-router-dom';
 
 import Container from './components/Container';
 import File from './components/File';
@@ -12,12 +12,12 @@ const App = ():React.ReactElement => {
     <>
       <Header />
       <Container>
-        <BrowserRouter>
+        <HashRouter>
           <Routes>
               <Route path='/' element={ <Files /> }/>
               <Route path='/:id' element={ <File /> }/>
           </Routes>
-        </BrowserRouter>
+        </HashRouter>
       </Container>
       <Footer />
     </>
