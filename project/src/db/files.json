@@ -1,0 +1,325 @@
+[
+  {
+    "title": "Playing Manual 1",
+    "id": 1,
+    "subtitle": "Control configuration changes are not reflected here. Please pay careful attention to button functions",
+    "content": [
+      "1 - Shooting: Hold down the R1 button then use de control stico to aim the laser sight",
+      "2 - Combat knife: Press and hold de L1 button to ready your knife then press the X button to swing the weapon.",
+      "3 - Action Button: You'll be able to perform various actions by pressing the appropriate buttons that appear on the screen",
+      "4 - Camera: You can change thge camera angle using the right analog stick"
+    ],
+    "location": "General"
+  },
+  {
+    "title": "Info on Ashlay",
+    "id": 2,
+    "subtitle": null,
+    "content": [
+      "Name: Ashlay Graham",
+      "Age: 20",
+      "Daughter of the United States President",
+      "She was kidnapped by an unidentified group while on her way home from her university.",
+      "The kidnapper's motives are still unknown. Although there's reliable information that the perpetrator is an insider.",
+      "Only a handful of people know about this kidnapping. It's been kept under wraps mostly due to the fact that we can't determine who the traitor is.",
+      "The guys in intelligence say they have reliable information that Ashley's been sighted somewhere in Europe. But until we find out who the insider is, I don't know what to believe. It could be a ploy.",
+      "We have very few leads as to the whereabouts of Ashley. But members of the Secret Service and anyone related to Ashley are being questioned by an investigative team.",
+      "Even active agents are being investigated for any information. It's just a matter before the kidnapper is exposed."
+    ],
+    "signature": null,
+    "location": "General"
+  },
+  {
+    "title": "Playing Manual 2",
+    "id": 3,
+    "subtitle": "Control configuration changes are not reflected here. Please pay careful attention to button functions",
+    "content": [
+      "1 - Reloading: Press Square button or the Circle button while holding down the R1 button to reload your firearm.",
+      "2 - Kicks: Approaching enemies that are either stunned or on their knees will allow Leon to perform kicks as prompted by the action button.",
+      "3 - Changing Inventory Screens: Use the L1 button and R1 button to switch back and forth between the Weapons/Recovery and the Keys/Treasure screens."
+    ],
+    "signature": null,
+    "location": "General"
+  },
+  {
+    "title": "Alert Orderd",
+    "id": 4,
+    "subtitle": null,
+    "content": [
+      "Recently there has been information that a United States government agent is here investigating the village.",
+      "Do not let this American agent get in contact with the prisoner.",
+      "For those of you not yet informed, the prisoner is being held in an old house beyond the farm. We will transfer the prisoner to a more secure location in the valley when we are ready. The prisoner is to stay here until further notice. Meanwhile, do not let the American agent near the prisoner.",
+      "We do not know how the American government found out about our village. But we are investigating.",
+      "However, I feel that this intrusion at this particular time is not just a coincidence. I sense a third party other then the United States government involved here.",
+      "My fellow men, stay alert!"
+    ],
+    "signature": "Chief, Bítores Mendes",
+    "location": "Village"
+  },
+  {
+    "title": "About the Blue Medallions",
+    "id": 5,
+    "subtitle": null,
+    "content": [
+      "15 blue medallions...",
+      "7 in the farm... 8 in the cemetery...",
+      "For those of you who destroy 10 or more will be awarded...",
+      "(The rest is illegible.)"
+    ],
+    "signature": null,
+    "location": "Village"
+  },
+  {
+    "title": "Chief's Note",
+    "id": 6,
+    "subtitle": null,
+    "content": [
+      "As instructed by Lord Saddler, I have the agent in confinement, alive. Why keep him alive? I do not fully understand what the Lord's intentions are.",
+      "I would, however, think he'd keep them separate; not confine them together as has been ordered.",
+      "I don't expect Luis would trust a stranger but if by chance they did cooperate, the situation could get a bit more complicated.",
+      "If for some reason, an unknown third party is involved, I don't think they'd let a chance like this slip by.",
+      "But maybe it's all Lord Saddler's ploy - leaving us vulnerable so that this third party will surface, if they even exist that is...",
+      "It's an unlikely possibility, but if a prowler is already amongst us, then our plans could be ruined.",
+      "I guess the Lord thinks it's worth the risk, if we're able to stop whatever conspiracy is at work.",
+      "At any rate, it's the Lord's call. We will trust his judgement as always."
+    ],
+    "signature": "Chief, Bítores Mendes",
+    "location": "Village"
+  },
+  {
+    "title": "Closure of the Church",
+    "id": 7,
+    "subtitle": null,
+    "content": [
+      "Regarding the two fugitives, the apprehension of Luis is our top priority; the American agent a distant second.",
+      "What Luis stole from us is far more important than the girl.",
+      "Unless we get it back, the girl will become useless to us. We must get it back to execute our plan to the end.",
+      "If it gets in the wrong hands, the world would become a totally different place than what Lord Saddler has envisioned.",
+      "At all costs, we mustn't let that happen.",
+      "Nevertheless, we're not letting go of the girl. To ensure that the agent does not get to her, I have locked the church door where the girl is being held.",
+      "Anyone who needs access to the church must first get approval by Lord Saddler.",
+      "There is a key beyond the lake but it should be safe now that the 'Del Lago' has been awakened by our Lord. No one will get across the lake alive.",
+      "Plus, our same blood courses through the agent's veins. It'll be just a matter of time before he joins us. Once he does, there will be nobody else left that will come looking for the girl."
+    ],
+    "signature": null,
+    "location": "Village"
+  },
+  {
+    "title": "Anonymous Letter",
+    "id": 8,
+    "subtitle": null,
+    "content": [
+      "There's an important item hidden in the falls. If you are able to get it, you might be able to get Ashley out of the church.",
+      "But I'll warn you, the route to the church isn't a walk in the park by any means. They've deployed what's called an 'El Gigante', so God bless.",
+      "About what's been going on in your body... If I could help you, I would. But unfortunately it's beyond my power."
+    ],
+    "signature": null,
+    "location": "Village"
+  },
+  {
+    "title": "Anonymous Letter",
+    "id": 9,
+    "subtitle": null,
+    "content": [
+      "There's an important item hidden in the falls. If you are able to get it, you might be able to get Ashley out of the church.",
+      "But I'll warn you, the route to the church isn't a walk in the park by any means. They've deployed what's called an 'El Gigante', so God bless.",
+      "About what's been going on in your body... If I could help you, I would. But unfortunately it's beyond my power."
+    ],
+    "signature": null,
+    "location": "Village"
+  },
+  {
+    "title": "Playing Manual 3",
+    "id": 10,
+    "subtitle": "Control configuration changes are not reflected here. Please pay careful attention to button functions",
+    "content": [
+      "Commands - Leon can give commands to Ashley to either 'WAIT' or 'FOLLOW' by pressing the R2 button.",
+      "Ashley and Action Button - Depending on the situation, Leon and Ashley can cooperate to get past various obstacles.",
+      "Ashley's Health - You can use recovery items not only on Leon but on Ashley as well.",
+      "Ashley and Game Over - Leon has failed his mission if Ashley is either killed or carried away by the enemy."
+    ],
+    "signature": null,
+    "location": "General"
+  },
+  {
+    "title": "Sera and the 3rd Party",
+    "id": 11,
+    "subtitle": null,
+    "content": [
+      "The whereabouts of Sera are still unknown.",
+      "Most likely he's using an old secret passage taught to him by his grandfather who used to hunt in this region long ago.",
+      "I'm pretty certain that he's hiding our property somewhere in the forest. If his grandfather was still alive, I would have used him to find Sera...",
+      "But how did he find out about the egg injected into his body? And the fact that he was able to remove it before it hatched is concerning.",
+      "Another factor that concerns me is that Sera escaped with our property just before the American agent arrived. I don't believe that was just a coincidence. There has to be another player involved in this.",
+      "In order to settle this whole situation, we have to capture Sera and wait for the effects of the drug to wear off before we inject him with another egg.",
+      "Once this is done, whoever is behind all of this will surface. Nobody shall interfere with our plans. Those who do shall suffer severe consequences.."
+    ],
+    "signature": "Chief, Bítores Mendes",
+    "location": "Village"
+  },
+  {
+    "title": "Two Routes",
+    "id": 12,
+    "subtitle": null,
+    "content": [
+      "Just a while ago, I was informed by Lord Saddler that our men had shot down a United States military helicopter. There shouldn't be any more outside interference for a while now.",
+      "Unless the United States government determines who the traitor is, they can only initiate very small covert operations. We must use this time to our advantage and recapture the girl.",
+      "The two Americans can only get out of our territory by using one of two routes. This is where we'll stop them. We shall make use of our forces to the greatest degree.",
+      "We will deploy a large number of Ganados in one of the routes to ensure that they do not slip by us. For the other route we shall leave the task to El Gigante. Whichever route they take, the agent will never leave here alive. Not with the girl at least."
+    ],
+    "signature": null,
+    "location": "Village"
+  },
+  {
+    "title": "Village's Last Defense",
+    "id": 13,
+    "subtitle": null,
+    "content": [
+      "I clearly underestimated the American agent's capability. He's still alive.",
+      "I thought that we could wait until the egg hatched, but at this rate, he could destroy the entire village before it does. We must take care of this nuisance.",
+      "We shall change our priorities - for the time being, we will cease our hunt for Luis and ambush the two Americans.",
+      "There is a building used to enlighten betrayers just beyond the point where you get off the lift.",
+      "It's a perfect place for ambushing them. If all else fails, they still would need to face me in order to get past the last gate that leads out of the village.",
+      "For only before my sight will the gate open."
+    ],
+    "signature": "Chief, Bítores Mendes",
+    "location": "Village"
+  },
+  {
+    "title": "Capture Luis Sera",
+    "id": 14,
+    "subtitle": null,
+    "content": [
+      "Why would he return during his escape leaves me to question his motives. But we must seize this moment and capture him.",
+      "We will get the other two Americans after we apprehend Sera.",
+      "It appears he took some vaccines when he stole our 'sample'. The vaccines we can do without but we must retrieve the 'sample' for it is our life blood.",
+      "I feel there is somebody else or some other group involved in this whole affair.",
+      "If the 'sample' were to get into the hands of that other entity, the world which we seek to create will not come. We must apprehend Sera as quickly as possible."
+    ],
+    "signature": null,
+    "location": "Castle"
+  },
+  {
+    "title": "Luis' Memo",
+    "id": 15,
+    "subtitle": null,
+    "content": [
+      "There are some parasites that have the ability to control their hosts.",
+      "It's basic knowledge among biologists but not much is known as to how the parasites do it.",
+      "Studying these parasites specifically might reveal some clues to as to how the powers of the Las Plagas work. And perhaps provide more insight on the victims of the Las Plagas, the Los Ganados.",
+      "Here is a list of some parasites that have the ability to manipulate the behavioral patterns of their host.",
+      "Dicrocoelium: Once the larvae of this parasite migrates to the ant's esophagus, it alters the behavior of the ant. When the temperature drops in the evening, the infected ant climbs to the top of a plant and clamps onto a leaf using its mandible. It stays there immobile until the next morning, placing the ant where it's most vulnerable to be eaten by a browsing herbivore such as sheep. One could conclude that the parasite is manipulating the host's behavior to make its way into the body of its definitive host.",
+      "Galactosomum: The larvae of this parasite makes its home inside the brain of a fish such as the yellowtail and the parrot bass. Once infected, the fish make their way up to the water's surface where they'll swim until eaten by seabirds. Once again, the peculiar behavior can only be explained by the parasite's desire to get into the bodies of the seabirds.",
+      "Leucochlordium: This parasite's sporocysts develop in the snail's tentacles. The sporocysts are vivid in color and pulsate continually somewhat like a worm. Surprisingly the infected snail makes its way to the top of a plant where it is more visible to the eyes of birds, therefore more likely to be eaten. Once eaten by a bird, the parasite will complete its metamorphosis into an adult."
+    ],
+    "signature": "Luis Sera",
+    "location": "Castle"
+  },
+  {
+    "title": "Castellan Memo",
+    "id": 16,
+    "subtitle": null,
+    "content": [
+      "For many years the Salazar family has served as the castellans of this castle. However, not everything is bright, for my ancestry has a dark past.",
+      "Long ago there once was a religious group that had deep roots in this region called the Los Illuminados. Unjustly however, the first castellan of the castle took away their rights and powers.",
+      "As a follower of this religion and as the 8th Castellan, I felt that it was my duty as well as my responsibility to atone for that sin.",
+      "I knew the best way to atone for that sin was to give power back to those who we once took it away from, the Los Illunimados.",
+      "As expected it took a little time, but we were able to rejuvenate the once sealed Las Plagas. With this success I was one step closer to the revival of the Los Illuminados.",
+      "The reason why I released the Las Plagas from deep under the castle and gave them to Lord Saddler was not only to repay for the sins of my ancestors but I felt certain that the Lord would make better use of this power to help save the world.",
+      "To save those that have sinned with the power of the Las Plagas and to cleanse their souls creating a world without sinners. The way it was meant to be. Once cleansed, they would become one of the many Ganados where they will find their reason to live.",
+      "And after the Lord has succeeded in creating the world in which he has envisioned, then the sins of my Salazar family will be atoned for."
+    ],
+    "signature": null,
+    "location": "Castle"
+  },
+  {
+    "title": "Butler's Memo",
+    "id": 17,
+    "subtitle": null,
+    "content": [
+      "Knowing that Sr. Ramon Salazar had no family, Lord Saddler must have used his strong faith in the Los Illuminados to his advantage to talk Sr. Salazar into undoing the seal of the Las Plagas once done by his ancestor.",
+      "Sr. Salazar would never do such a thing unless he was in some way being used unknowingly. I should have sensed the Lord's dirty scheme sooner. I feel I'm partly responsible for all of this.",
+      "I have no idea as to what the Lord is planning, but Sr. Salazar was just being used.",
+      "It is too late now however, Sr. Salazar has already taken the Plaga into his body.",
+      "There is no turning back once the Plaga has turned into an adult in the body.",
+      "The Plaga parasite will not die unless the host dies. There's no cure. Perhaps, Sr. Salazar may have been vaguely aware of the Lord's plan all along. But it's hard to tell.",
+      "Nevertheless, there's nothing I can do about it now.",
+      "I have served the Salazar family for generations. I am prepared to continue my services until the very end."
+    ],
+    "signature": "Butler",
+    "location": "Castle"
+  },
+  {
+    "title": "Sample Retrieved",
+    "id": 18,
+    "subtitle": null,
+    "content": [
+      "As you may have heard, Luis Sera has been disposed of by Lord Saddler. The 'sample' is back where it belongs. I had hoped that the whole matter could be resolved without troubling the Lord. However, as long as the 'sample' is safe we can all rejoice, for our time is nearly at hand.",
+      "Now that the 'sample' is back in our safe hands, it'll be a bit more difficult for that troublesome woman to get it. In light of all this, it's unfortunate that Sera had to go. Like us, he would have had a bright future if only he had shown more faith in our beliefs.",
+      "As for the other two Americans, the Lord has left the matter in our hands.",
+      "We must not disappoint the Lord. We shall capture Ashley and take her to the Lord and dispose of the American agent."
+    ],
+    "signature": null,
+    "location": "Castle"
+  },
+  {
+    "title": "Ritual Preparation",
+    "id": 19,
+    "subtitle": null,
+    "content": [
+      "Thanks to the efforts of the 'Novistadors', we have been able to recapture Ashley.",
+      "We shall prepare for the sacred ritual as quickly as possible and make Ashley an official member of the Los Illuminados.",
+      "While we prepare for the ritual, those of you who feel inclined can attend to our American friend.",
+      "We should be able to hold off our friend for at least a little while by jamming the gears in the clock tower with something.",
+      "I think if we jam the gears in 3 places, it should give us enough time to prepare everything for the ritual.",
+      "Now go and entertain our American tourist."
+    ],
+    "signature": null,
+    "location": "Castle"
+  },
+  {
+    "title": "Luis' Memo 2",
+    "id": 20,
+    "subtitle": null,
+    "content": [
+      "The first castellan buried the Las Plagas deep underground below the castle to hide their very existence. But when Salazar released the Las Plagas, no one thought he could bring them back to life. Because when Salazar found them they were all just fossilized remains.",
+      "Everyone knew that the parasitic organisms could not survive without their hosts. That they couldn't sustain life on their own. But when Salazar and his men excavated the remains, it almost appeared as if the Las Plagas were just waiting to be discovered so that they could resurrect.",
+      "Several years later, unexplainable convulsions started occurring among the villagers who helped with the excavation of the Las Plagas.",
+      "Then one day, all of a sudden, these villagers turned into violent savages.",
+      "They later found out it was caused by the Las Plagas. Although they appeared fossilized, they were able to survive the long years by lying in a dormant state at the cellular level remaining in a spore-like form.",
+      "Apparently, during the excavation, the villagers inhaled the spores and within their bodies the parasites became active again. This is how the Las Plagas were resurrected.",
+      "Even as I'm writing, the excavation of the Las Plagas continues.",
+      "God only knows how many of these Plagas have been resurrected. Not to mention the countless number of Ganados that have been created.",
+      "Their inhumane activity must be put to an end. If they are not stopped, people around the world could turn into victims of this crazy cult organization."
+    ],
+    "signature": "Luis Sera",
+    "location": "Castle"
+  }, 
+  {
+    "title": "Letter from Ada",
+    "id": 21,
+    "subtitle": null,
+    "content": [
+      "Once a Plaga egg hatches, it's nearly impossible to remove it from the body. But if it's before it hatches, then it can be neutralized by medication.",
+      "If it does hatch you might be able to get it out by surgery before it turns to an adult. But it won't be easy. There's a high chance you won't survive the operation.",
+      "As far as I know the girl was injected with the egg before you. Her time is ticking. You should prepare yourself for the worst case scenario."
+    ],
+    "signature": "Ada Wong",
+    "location": "Castle"
+  }, 
+  {
+    "title": "Female Intruder",
+    "id": 22,
+    "subtitle": null,
+    "content": [
+      "There seems to be a female intruder among us. We believe she's connected with Sera.",
+      "We also believe that she was the one who removed the egg injected into Sera before it hatched. She may have had him retrieve the 'sample' before the American agent's arrival.",
+      "It's obvious that her objective is the 'sample'. We must get to her before she is able to reestablish contact with Sera.",
+      "There's also reason to believe that she's working for somebody. We need her alive for interrogation.",
+      "The female should be able to answer all our questions. After we have captured her, Sera will no longer be of any concern.",
+      "As long as we retrieve the 'sample', you may dispose of him as you see fit."
+    ],
+    "signature": null,
+    "location": "Castle"
+  }
+]
