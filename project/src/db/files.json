@@ -4,7 +4,7 @@
     "id": 1,
     "subtitle": "Control configuration changes are not reflected here. Please pay careful attention to button functions",
     "content": [
-      "1 - Shooting: Hold down the R1 button then use de control stico to aim the laser sight",
+      "1 - Shooting: Hold down the R1 button then use the control stick to aim the laser sight",
       "2 - Combat knife: Press and hold de L1 button to ready your knife then press the X button to swing the weapon.",
       "3 - Action Button: You'll be able to perform various actions by pressing the appropriate buttons that appear on the screen",
       "4 - Camera: You can change thge camera angle using the right analog stick"
@@ -321,5 +321,110 @@
     ],
     "signature": null,
     "location": "Castle"
+  },
+  {
+    "title": "Luis' Memo 3",
+    "id": 23,
+    "subtitle": null,
+    "content": [
+      "The hideous creatures such as the El Gigante and the Novistadors are merely by-products of the diabolical and inhumane experiments conducted on the specimens that were once human.",
+      "But there's one type of creature that clearly distinguishes itself from the rest. These creatures are called Regenerators.",
+      "Regenerators have a superior metabolism that allows them to regenerate their lost body parts at incredible speeds.",
+      "I've never seen anything like it...",
+      "It is this characteristic that makes them almost invincible to conventional weapons.",
+      "But like any living creature, there's a way to kill it. Apparently there are Plagas that live in its body; somewhat like leeches.",
+      "They can't be seen with the naked eye. They can only be located through thermal imaging.",
+      "To stop its regeneration process, these leech-like Plagas must be located and then destroyed.",
+      "As far as I know, most of the Regenerators host a number of these leech-like Plagas.",
+      "To kill the Regenerators, each one of these leech-like Plagas must be killed."
+    ],
+    "signature": "Luis Sera",
+    "location": "Island"
+  },
+  {
+    "title": "Paper Airplane",
+    "id": 24,
+    "subtitle": null,
+    "content": [
+      "Perhaps you have it figured out already, but you might be able to get out of here by using the waste disposal vent."
+    ],
+    "signature": "Ada Wong",
+    "location": "Island"
+  },
+  {
+    "title": "Our Plan",
+    "id": 25,
+    "subtitle": null,
+    "content": [
+      "Because of that agent we lost Chief Mendez and Ramon. Nevertheless, everything will proceed according to plan.",
+      "I must admit however, the loss of my loyal men is a bit disheartening. But I will deal with it.",
+      "Replacing that loss will not come easy. I must choose wisely; for the Plaga reflects the conscience of their hosts. If chosen poorly, they could betray me.",
+      "I need men who will swear their allegiance to me.",
+      "I've learned my lesson when Sera betrayed me. I will not make the same mistake again.",
+      "In this important hour, I cannot and will not have anyone stand in my way."
+    ],
+    "signature": null,
+    "location": "Island"
+  },
+  {
+    "title": "Luis' Memo 4",
+    "id": 26,
+    "subtitle": null,
+    "content": [
+      "I'll report my findings about the Plagas here. The Plagas have 3 distinct characteristics.",
+      "1: As mentioned previously, the Plagas have the ability to manipulate the behavioral patterns of their hosts.",
+      "2: The Plagas are social organisms. By this I mean that instead of living individually, they live in perfect social harmony. It is believed that they have a collective intelligence. This type of behavior can be seen among insects such as bees and ants. However this kind of social behavior is rarely seen among parasitic organisms. Perhaps it was a learned behavior by the Plagas. I'm finding out if this has any relationship with their first characteristic.",
+      "3:The Plagas have exceptional adaptation skills. They are able to live off many kinds of organisms by creating a symbiotic environment quickly. This ability, when combined with their social behaviors, allows them to interact intelligently between hosts regardless of the host organism.",
+      "I am ashamed to admit that my pure fascination with the Plagas, in hindsight, has blinded me to the true research objectives of the Los Illuminados.",
+      "Even with the knowledge that Saddler was going to abuse the results of these experiments, I could not pull myself away from my research. As a result, I am just as responsible for this whole mess as he is. I see now that I was wrong, but can I stop their evil plans alone...?"
+    ],
+    "signature": "Luis Sera",
+    "location": "Island"
+  },
+  {
+    "title": "Krauser's Note",
+    "id": 27,
+    "subtitle": null,
+    "content": [
+      "It turns out that old man Saddler wasn't buying me from the start.",
+      "Even though I succeeded in kidnapping Ashley, I sort of sensed this when Saddler didn't completely let me in the loop.",
+      "Under the circumstances, I had no other alternative but to call for her assistance. Perhaps she knew this was the way it was going to turn out all along...",
+      "My guess is that her ultimate goal might be different from Wesker's and mine. This is just the perfect opportunity to find out.",
+      "And after I get rid of Leon and retrieve the sample, I'll put her in a bodybag along with Leon and send them both to Wesker."
+    ],
+    "signature": "Jack Krauser",
+    "location": "Island"
+  },
+  {
+    "title": "Luis' Memo 5",
+    "id": 28,
+    "subtitle": null,
+    "content": [
+      "From the initial stages of the research, we have been searching for a safe and practical removal procedure of the Plaga.",
+      "Ironically, it turns out that the real objective of this research was not to find a way to remove the Plagas from the infected persons but to find a way so that the Plaga could not be removed from the body easily.",
+      "In the end, we were able to find out that the Plagas could be removed only by exposing them to a special radiation.",
+      "The only drawback with this method is that is is a very painful procedure. Since the Plaga attaches itself to the nerves, there is a possibility that it may impair the consciousness of the host.",
+      "Another fact that must be mentioned is that once the Plaga grows into an adult, the removal procedure could kill the host.",
+      "But perhaps death isn't so bad when you think about the alternative."
+    ],
+    "signature": "Luis Sera",
+    "location": "Island"
+  },
+  {
+    "title": "Our Mission",
+    "id": 29,
+    "subtitle": null,
+    "content": [
+      "The real power of the United States lies in three areas. The Justice Department, the Administrative bodies, and the Military. In order to take control of these areas, we must influence the minds of the people who advise the President.",
+      "After this is done, the rest of the departments will quickly fall under our sway.",
+      "If by chance the United States were to figure out our plan, the damage caused should be minimal.",
+      "We will still be able to conquer the country as planned using our backup plan. Once we control the country, we will use their international influence to our advantage.",
+      "The rest of the world will fall swiftly.",
+      "As already stated, if our first plan doesn't go as smoothly as expected, we'll proceed with out secondary plan. By sending in our 'special' forces we will infiltrate the country from within. Fear and chaos will spread through the nation like a virus.",
+      "It'll only be a matter of time before the country loses its stability. At that time, when they're most vulnerable, we will strike.",
+      "Rejoice my brethren; the world shall soon be cleansed."
+    ],
+    "signature": null,
+    "location": "Island"
   }
 ]

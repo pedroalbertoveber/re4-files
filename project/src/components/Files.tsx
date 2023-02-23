@@ -9,7 +9,8 @@ export default function Files():ReactElement {
   const areas = [
     "General",
     "Village",
-    "Castle"
+    "Castle",
+    "Island"
   ];
 
   return(
